@@ -1,0 +1,14 @@
+# MacOS sys
+.DS_Store
+
+# setup python environment
+.python-version
+.venv
+
+# personal setup
+.proma
+
+# project
+data/raw
+data/processed
+models
